@@ -1904,6 +1904,8 @@ msgid ""
 "Compute shipping costs and ship with DHL<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本并用DHL装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
@@ -1921,6 +1923,8 @@ msgid ""
 "Compute shipping costs and ship with FedEx<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本并用FedEx装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
@@ -1948,6 +1952,8 @@ msgid ""
 "Compute shipping costs and ship with UPS<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本并用UPS装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
@@ -1960,6 +1966,8 @@ msgid ""
 "Compute shipping costs and ship with USPS<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本并用USPS装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
@@ -2472,7 +2480,7 @@ msgstr "DEMO_UOM"
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
 msgid "DHL Connector"
-msgstr ""
+msgstr "DHL连接器"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_res_config_settings__module_delivery_dhl
