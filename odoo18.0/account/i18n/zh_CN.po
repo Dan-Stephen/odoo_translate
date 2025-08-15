@@ -2853,13 +2853,13 @@ msgstr "结算金额"
 #. odoo-python
 #: code:addons/account/models/account_account.py:0
 msgid "An Off-Balance account can not be reconcilable"
-msgstr "An Off-Balance account can not be reconcilable"
+msgstr "资产负债表外账户不能进行核销"
 
 #. module: account
 #. odoo-python
 #: code:addons/account/models/account_account.py:0
 msgid "An Off-Balance account can not have taxes"
-msgstr "An Off-Balance account can not have taxes"
+msgstr "资产负债表外账户不能设置税费"
 
 #. module: account
 #: model:ir.model.constraint,message:account.constraint_account_fiscal_position_account_account_src_dest_uniq
@@ -3002,7 +3002,7 @@ msgstr "分析"
 #. module: account
 #: model:ir.model.constraint,message:account.constraint_account_move_unique_name
 msgid "Another entry with the same name already exists."
-msgstr "Another entry with the same name already exists."
+msgstr "已存在同名的条目。"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_res_company__hard_lock_date
@@ -3140,7 +3140,7 @@ msgstr "Are you sure? This will perform the following operations:\n"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__res_partner__autopost_bills__ask
 msgid "Ask after 3 validations without edits"
-msgstr "Ask after 3 validations without edits"
+msgstr "连续3次验证无编辑后询问"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.autopost_bills_wizard
@@ -3253,7 +3253,7 @@ msgstr "自动验证"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__autocheck_on_post
 msgid "Auto-Check on Post"
-msgstr "Auto-Check on Post"
+msgstr "过账时自动检查"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
@@ -3281,7 +3281,7 @@ msgstr "自动过账"
 #: model:ir.model.fields,field_description:account.field_res_partner__autopost_bills
 #: model:ir.model.fields,field_description:account.field_res_users__autopost_bills
 msgid "Auto-post bills"
-msgstr "Auto-post bills"
+msgstr "自动过账账单"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__auto_post_until
@@ -3465,7 +3465,7 @@ msgstr "银行和现金"
 #. odoo-python
 #: code:addons/account/models/account_account.py:0
 msgid "Bank & Cash accounts cannot be shared between companies."
-msgstr "Bank & Cash accounts cannot be shared between companies."
+msgstr "银行和现金账户不能在公司间共享。"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__bank_account_id
@@ -3651,7 +3651,7 @@ msgstr ""
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
 msgid "Bank transactions and payments:"
-msgstr "Bank transactions and payments:"
+msgstr "银行交易和付款："
 
 #. module: account
 #. odoo-python
@@ -3688,7 +3688,7 @@ msgstr "基本税收账户"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_tax_repartition_line__repartition_type
 msgid "Base on which the factor will be applied."
-msgstr "Base on which the factor will be applied."
+msgstr "应用因子的基础。"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax_repartition_line__repartition_type
@@ -5174,7 +5174,7 @@ msgstr "创建第一个现金舍入"
 #. odoo-javascript
 #: code:addons/account/static/src/js/tours/account.js:0
 msgid "Create the product."
-msgstr "Create the product."
+msgstr "创建产品。"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_partner_bank_search_inherit
@@ -5320,7 +5320,7 @@ msgstr "信用卡设置"
 #. odoo-python
 #: code:addons/account/models/account_journal_dashboard.py:0
 msgid "Credit Card: Balance"
-msgstr "Credit Card: Balance"
+msgstr "信用卡：余额"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_partner__credit_limit
@@ -5357,12 +5357,12 @@ msgstr "已创建的退款通知"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_out_credit_note_tree
 msgid "Credit Note Currency"
-msgstr "Credit Note Currency"
+msgstr "贷项通知单币种"
 
 #. module: account
 #: model:mail.template,name:account.email_template_edi_credit_note
 msgid "Credit Note: Sending"
-msgstr "Credit Note: Sending"
+msgstr "贷项通知单：发送"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_move_out_refund_type
@@ -5393,13 +5393,13 @@ msgstr "信用卡"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_move_line__matched_credit_ids
 msgid "Credit journal items that are matched with this journal item."
-msgstr "Credit journal items that are matched with this journal item."
+msgstr "与此分录项匹配的贷方分录项。"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_res_partner__credit_limit
 #: model:ir.model.fields,help:account.field_res_users__credit_limit
 msgid "Credit limit specific to this partner."
-msgstr "Credit limit specific to this partner."
+msgstr "此业务伙伴的特定信用额度。"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_line__cumulated_balance
@@ -5447,7 +5447,7 @@ msgstr "币别"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_automatic_entry_wizard__display_currency_helper
 msgid "Currency Conversion Helper"
-msgstr "Currency Conversion Helper"
+msgstr "货币转换助手"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__currency_exchange_journal_id
@@ -5476,7 +5476,7 @@ msgstr "货币汇率差额"
 #. odoo-python
 #: code:addons/account/models/res_partner_bank.py:0
 msgid "Currency must always be provided in order to generate a QR-code"
-msgstr "Currency must always be provided in order to generate a QR-code"
+msgstr "生成二维码时必须提供货币"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_partial_reconcile__credit_currency_id
@@ -5671,7 +5671,7 @@ msgstr "Customize the look of your documents."
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
 msgid "Cut-Off"
-msgstr "Cut-Off"
+msgstr "截止"
 
 #. module: account
 #. odoo-python
@@ -5693,7 +5693,7 @@ msgstr "交付地点"
 #. module: account
 #: model:account.incoterms,name:account.incoterm_DPU
 msgid "DELIVERED AT PLACE UNLOADED"
-msgstr "DELIVERED AT PLACE UNLOADED"
+msgstr "目的地交货（卸货）"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_DDP
@@ -5858,7 +5858,7 @@ msgstr "借方凭证"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_move_line__matched_debit_ids
 msgid "Debit journal items that are matched with this journal item."
-msgstr "Debit journal items that are matched with this journal item."
+msgstr "与此分录项匹配的借方分录项。"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__res_company__fiscalyear_last_month__12
@@ -5915,12 +5915,12 @@ msgstr "默认信用额度"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_journal_form
 msgid "Default Expense Account"
-msgstr "Default Expense Account"
+msgstr "默认费用科目"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_journal_form
 msgid "Default Income Account"
-msgstr "Default Income Account"
+msgstr "默认收入科目"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
@@ -5946,7 +5946,7 @@ msgstr "默认PoS应收科目"
 #: model:ir.model.fields,field_description:account.field_res_company__account_purchase_tax_id
 #: model:ir.model.fields,field_description:account.field_res_config_settings__purchase_tax_id
 msgid "Default Purchase Tax"
-msgstr "Default Purchase Tax"
+msgstr "默认进项税"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__account_sale_tax_id
@@ -5961,7 +5961,7 @@ msgstr "默认销售税"
 #: model:ir.model.fields,field_description:account.field_res_company__account_price_include
 #: model:ir.model.fields,field_description:account.field_res_config_settings__account_price_include
 msgid "Default Sales Price Include"
-msgstr "Default Sales Price Include"
+msgstr "默认销售价格含税"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account__tax_ids
@@ -5977,12 +5977,12 @@ msgstr "默认条款和条件"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__invoice_terms
 msgid "Default Terms and Conditions"
-msgstr "Default Terms and Conditions"
+msgstr "默认条款和条件"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__invoice_terms_html
 msgid "Default Terms and Conditions as a Web page"
-msgstr "Default Terms and Conditions as a Web page"
+msgstr "默认条款和条件网页"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__alias_defaults
@@ -6023,7 +6023,7 @@ msgstr "购买产品时，使用的默认税项"
 #: model:ir.model.fields,help:account.field_product_product__taxes_id
 #: model:ir.model.fields,help:account.field_product_template__taxes_id
 msgid "Default taxes used when selling the product"
-msgstr "Default taxes used when selling the product"
+msgstr "销售产品时使用的默认税费"
 
 #. module: account
 #: model:account.account,name:account.1_deferred_revenue
@@ -7619,12 +7619,12 @@ msgstr "外币"
 #. module: account
 #: model:account.account,name:account.1_income_currency_exchange
 msgid "Foreign Exchange Gain"
-msgstr "Foreign Exchange Gain"
+msgstr "汇兑收益"
 
 #. module: account
 #: model:account.account,name:account.1_expense_currency_exchange
 msgid "Foreign Exchange Loss"
-msgstr "Foreign Exchange Loss"
+msgstr "汇兑损失"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_fiscal_position__foreign_vat
@@ -7812,12 +7812,12 @@ msgstr "生成的分录"
 #. module: account
 #: model:account.report,name:account.generic_tax_report
 msgid "Generic Tax report"
-msgstr "Generic Tax report"
+msgstr "通用税务报告"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_journal_dashboard_kanban_view
 msgid "Get Paid online. Send electronic invoices."
-msgstr "Get Paid online. Send electronic invoices."
+msgstr "在线收款。发送电子发票。"
 
 #. module: account
 #: model:ir.model,name:account.model_report_account_report_hash_integrity
@@ -11535,7 +11535,7 @@ msgstr "未结科目"
 #: code:addons/account/models/chart_template.py:0
 #: model:account.account,name:account.1_account_journal_payment_credit_account_id
 msgid "Outstanding Payments"
-msgstr "Outstanding Payments"
+msgstr "未清付款"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_journal_form
