@@ -1687,6 +1687,8 @@ msgid ""
 "Compute shipping costs and ship with DHL<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本，并通过DHL装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -1699,6 +1701,8 @@ msgid ""
 "Compute shipping costs and ship with FedEx<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本，并通过FedEx装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -1721,6 +1725,8 @@ msgid ""
 "Compute shipping costs and ship with UPS<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本，并通过UPS装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -1728,6 +1734,8 @@ msgid ""
 "Compute shipping costs and ship with USPS<br/>\n"
 "                                    <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"计算运输成本，并通过USPS装运<br/>\n"
+"                                    <strong>(请前往主页&gt;应用进行安装)</strong>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -2012,7 +2020,7 @@ msgstr "客户"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "DHL Connector"
-msgstr ""
+msgstr "DHL连接器"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__module_delivery_dhl
@@ -5312,7 +5320,7 @@ msgstr "交易"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__translated_product_name
 msgid "Translated Product Name"
-msgstr ""
+msgstr "翻译的产品名称"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__type_name
