@@ -328,11 +328,7 @@ msgid ""
 "    <br/>\n"
 "    --\n"
 "    <br/>"
-msgstr ""
-"\n"
-"    <br/>\n"
-"    --\n"
-"    <br/>"
+msgstr "\.n" "    <br/>n" "    --n" "    <br/>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
@@ -866,7 +862,7 @@ msgstr ""
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_journal_form
 msgid ""
-"<i class=\"oi oi-fw o_button_icon oi-arrow-right\"/> Configure Alias Domai\n"
+"<i class=\"oi oi-fw o_button_icon oi-arrow-right\"/> Configure Alias Domain"
 msgstr "<i class=\"oi oi-fw o_button_icon oi-arrow-right\"/> 配置别名域"
 
 #. module: account
@@ -1746,7 +1742,7 @@ msgstr "会计日记账组"
 #. module: account
 #: model:ir.model,name:account.model_account_lock_exception
 #: model_terms:ir.ui.view,arch_db:account.view_account_lock_exception_form
-msgid "Account Lock Exceptio\n"
+msgid "Account Lock Exception"
 msgstr "会计锁定例外"
 
 #. module: account
@@ -1978,7 +1974,7 @@ msgid "Account report without payment lines"
 msgstr "不包含付款行的会计报表"
 
 #: model:ir.model,name:account.model_ir_actions_report
-msgid "Report Actio\n"
+msgid "Report Action"
 msgstr "报表操作"
 
 #. module: account
@@ -2066,7 +2062,7 @@ msgstr "会计师事务所模式"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_journal_form
-msgid "Accounting Informatio\n"
+msgid "Accounting Information"
 msgstr "会计信息"
 
 #. module: account
@@ -2082,12 +2078,12 @@ msgstr "会计报表"
 
 #. module: account
 #: model:ir.model,name:account.model_account_report_column
-msgid "Accounting Report Colum\n"
+msgid "Accounting Report Column"
 msgstr "会计报表列"
 
 #. module: account
 #: model:ir.model,name:account.model_account_report_expression
-msgid "Accounting Report Expressio\n"
+msgid "Accounting Report Expression"
 msgstr "会计报表表达式"
 
 #. module: account
@@ -2112,7 +2108,7 @@ msgstr "在会计师事务所模式下，将更改发票/账单编码："
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_partner_property_form
-msgid "Accounting-related settings are managed o\n"
+msgid "Accounting-related settings are managed on"
 msgstr "会计相关设置管理在"
 
 #. module: account
@@ -2123,7 +2119,7 @@ msgstr "科目"
 
 #. module: account
 #: model:ir.model,name:account.model_account_fiscal_position_account
-msgid "Accounts Mapping of Fiscal Positio\n"
+msgid "Accounts Mapping of Fiscal Position"
 msgstr "财政头寸的科目映射"
 
 #. module: account
@@ -2189,7 +2185,7 @@ msgstr "应计总额"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_automatic_entry_wizard__action
 #: model:ir.model.fields,field_description:account.field_account_report_line__action_id
-msgid "Actio\n"
+msgid "Action"
 msgstr "操作"
 
 #. module: account
@@ -2218,7 +2214,7 @@ msgstr "激活审计跟踪"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.autopost_bills_wizard
-msgid "Activate auto-validatio\n"
+msgid "Activate auto-validation"
 msgstr "激活自动验证"
 
 #. module: account
@@ -2271,7 +2267,7 @@ msgstr "活动"
 #: model:ir.model.fields,field_description:account.field_account_payment__activity_exception_decoration
 #: model:ir.model.fields,field_description:account.field_account_setup_bank_manual_config__activity_exception_decoration
 #: model:ir.model.fields,field_description:account.field_res_partner_bank__activity_exception_decoration
-msgid "Activity Exception Decoratio\n"
+msgid "Activity Exception Decoration"
 msgstr "活动异常装饰"
 
 #. module: account
@@ -2291,7 +2287,7 @@ msgstr "活动状态"
 #: model:ir.model.fields,field_description:account.field_account_payment__activity_type_icon
 #: model:ir.model.fields,field_description:account.field_account_setup_bank_manual_config__activity_type_icon
 #: model:ir.model.fields,field_description:account.field_res_partner_bank__activity_type_icon
-msgid "Activity Type Ico\n"
+msgid "Activity Type Icon"
 msgstr "活动类型图标"
 
 #. module: account
@@ -2369,7 +2365,7 @@ msgstr "添加四舍五入行"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "Add a sectio\n"
+msgid "Add a section"
 msgstr "添加小节"
 
 #. module: account
@@ -2485,7 +2481,7 @@ msgstr "别名"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__alias_domain_id
-msgid "Alias Domai\n"
+msgid "Alias Domain"
 msgstr "别名域"
 
 #. module: account
@@ -2546,12 +2542,12 @@ msgstr "选定日期之前的所有未对账银行对账单行。"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__module_product_margin
-msgid "Allow Product Margi\n"
+msgid "Allow Product Margin"
 msgstr "允许产品毛利"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account__reconcile
-msgid "Allow Reconciliatio\n"
+msgid "Allow Reconciliation"
 msgstr "允许对账"
 
 #. module: account
@@ -2670,7 +2666,7 @@ msgstr "已签字的公司币别金额"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_reconcile_model__match_amount
-msgid "Amount Conditio\n"
+msgid "Amount Condition"
 msgstr "金额条件"
 
 #. module: account
@@ -2821,7 +2817,7 @@ msgstr "分析账户"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_line__analytic_distribution
 #: model:ir.model.fields,field_description:account.field_account_reconcile_model_line__analytic_distribution
-msgid "Analytic Distributio\n"
+msgid "Analytic Distribution"
 msgstr "分析分配"
 
 #. module: account
@@ -2867,7 +2863,7 @@ msgstr "分析方案"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_line__analytic_precision
 #: model:ir.model.fields,field_description:account.field_account_reconcile_model_line__analytic_precision
-msgid "Analytic Precisio\n"
+msgid "Analytic Precision"
 msgstr "分析精度"
 
 #. module: account
@@ -3230,7 +3226,7 @@ msgstr "自动为此受信任的合作伙伴过账账单"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_partner_property_form
-msgid "Automatio\n"
+msgid "Automation"
 msgstr "自动化"
 
 #. module: account
@@ -3459,7 +3455,7 @@ msgstr "银行对账单"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__module_account_bank_statement_extract
-msgid "Bank Statement Digitizatio\n"
+msgid "Bank Statement Digitization"
 msgstr "银行对账单数字化"
 
 #. module: account
@@ -3487,7 +3483,7 @@ msgstr "银行暂记账户"
 #. module: account
 #. odoo-python
 #: code:addons/account/models/account_move.py:0
-msgid "Bank Transactio\n"
+msgid "Bank Transaction"
 msgstr "银行交易"
 
 #. module: account
@@ -3575,7 +3571,7 @@ msgstr "应用因子的基础。"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax_repartition_line__repartition_type
-msgid "Based O\n"
+msgid "Based On"
 msgstr "基于"
 
 #. module: account
@@ -3747,7 +3743,7 @@ msgstr "阻止消息"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_report_column__figure_type__boolean
 #: model:ir.model.fields.selection,name:account.selection__account_report_expression__figure_type__boolean
-msgid "Boolea\n"
+msgid "Boolean"
 msgstr "布尔型"
 
 #. module: account
@@ -4031,7 +4027,7 @@ msgstr "现金收付日记账"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__tax_cash_basis_origin_move_id
 #: model:ir.model.fields,field_description:account.field_account_move__tax_cash_basis_origin_move_id
-msgid "Cash Basis Origi\n"
+msgid "Cash Basis Origin"
 msgstr "现金收付来源"
 
 #. module: account
@@ -4055,7 +4051,7 @@ msgstr "现金差额费用"
 #. odoo-python
 #: code:addons/account/models/chart_template.py:0
 #: model:account.account,name:account.1_cash_diff_income
-msgid "Cash Difference Gai\n"
+msgid "Cash Difference Gain"
 msgstr "现金差价收益"
 
 #. module: account
@@ -4074,7 +4070,7 @@ msgstr "现金差额损失"
 #. odoo-python
 #: code:addons/account/models/chart_template.py:0
 #: model:account.account,name:account.1_cash_discount_gain
-msgid "Cash Discount Gai\n"
+msgid "Cash Discount Gain"
 msgstr "现金折扣收益"
 
 #. module: account
@@ -4086,7 +4082,7 @@ msgstr "现金折扣损失"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_payment_term__early_pay_discount_computation
-msgid "Cash Discount Tax Reductio\n"
+msgid "Cash Discount Tax Reduction"
 msgstr "现金折扣税额减免"
 
 #. module: account
@@ -4163,7 +4159,7 @@ msgstr "类别"
 msgid ""
 "Certain countries apply withholding at source on the amount of invoices, in "
 "accordance with their internal legislation. Any withholding at source will "
-"be paid by the client to the tax authorities. Under no circumstances ca\n"
+"be paid by the client to the tax authorities. Under no circumstances can"
 msgstr ""
 "某些国家根据其国内法律对发票金额征收预扣税。"
 "任何预扣税将由客户向税务当局支付。在任何情况下都不能"
@@ -4367,7 +4363,7 @@ msgstr "点击此处为您的产品添加描述。"
 #. module: account
 #. odoo-javascript
 #: code:addons/account/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-msgid "Click or press enter to add a descriptio\n"
+msgid "Click or press enter to add a description"
 msgstr "点击或按回车键添加描述"
 
 #. module: account
@@ -4623,7 +4619,7 @@ msgstr "配置设置"
 #. module: account
 #: model:ir.ui.menu,name:account.menu_finance_configuration
 #: model_terms:ir.ui.view,arch_db:account.account_journal_dashboard_kanban_view
-msgid "Configuratio\n"
+msgid "Configuration"
 msgstr "配置"
 
 #. module: account
@@ -4746,7 +4742,7 @@ msgstr "售出货物的成本"
 
 #. module: account
 #: model:account.account,name:account.1_cost_of_production
-msgid "Cost of Productio\n"
+msgid "Cost of Production"
 msgstr "生产成本"
 
 #. module: account
@@ -4940,7 +4936,7 @@ msgstr "在您的通讯录中创建新联系人"
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.action_account_fiscal_position_form
-msgid "Create a new fiscal positio\n"
+msgid "Create a new fiscal position"
 msgstr "创建新的财政地位"
 
 #. module: account
@@ -5062,7 +5058,7 @@ msgstr "创建人"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_partner_bank_search_inherit
-msgid "Created O\n"
+msgid "Created On"
 msgstr "创建于"
 
 #. module: account
@@ -5164,7 +5160,7 @@ msgstr "创建人"
 #: model:ir.model.fields,field_description:account.field_account_tax_group__create_date
 #: model:ir.model.fields,field_description:account.field_account_tax_repartition_line__create_date
 #: model:ir.model.fields,field_description:account.field_validate_account_move__create_date
-msgid "Created o\n"
+msgid "Created on"
 msgstr "创建日期"
 
 #. module: account
@@ -5341,7 +5337,7 @@ msgstr "汇率"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report__currency_translation
-msgid "Currency Translatio\n"
+msgid "Currency Translation"
 msgstr "货币换算"
 
 #. module: account
@@ -5402,12 +5398,12 @@ msgstr "本年利润"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report_column__custom_audit_action_id
-msgid "Custom Audit Actio\n"
+msgid "Custom Audit Action"
 msgstr "自定义审计操作"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_report_expression__engine__custom
-msgid "Custom Python Functio\n"
+msgid "Custom Python Function"
 msgstr "自定义Python函数"
 
 #. module: account
@@ -5741,7 +5737,7 @@ msgstr "十二月"
 
 #. module: account
 #: model:ir.model,name:account.model_decimal_precision
-msgid "Decimal Precisio\n"
+msgid "Decimal Precision"
 msgstr "小数精度"
 
 #. module: account
@@ -5952,7 +5948,7 @@ msgstr ""
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_tax_form
-msgid "Definitio\n"
+msgid "Definition"
 msgstr "定义"
 
 #. module: account
@@ -6014,7 +6010,7 @@ msgstr "已弃用"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_account__account_type__expense_depreciation
-msgid "Depreciatio\n"
+msgid "Depreciation"
 msgstr "折旧"
 
 #. module: account
@@ -6022,7 +6018,7 @@ msgstr "折旧"
 #: model:ir.model.fields,field_description:account.field_mail_mail__account_audit_log_preview
 #: model:ir.model.fields,field_description:account.field_mail_message__account_audit_log_preview
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "Descriptio\n"
+msgid "Description"
 msgstr "描述"
 
 #. module: account
@@ -6086,7 +6082,7 @@ msgstr "摘要"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
-msgid "Digitizatio\n"
+msgid "Digitization"
 msgstr "数字化"
 
 #. module: account
@@ -6099,12 +6095,12 @@ msgstr ""
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__direction_sign
 #: model:ir.model.fields,field_description:account.field_account_move__direction_sign
-msgid "Direction Sig\n"
+msgid "Direction Sign"
 msgstr "方向标识"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_merge_wizard__disable_merge_button
-msgid "Disable Merge Butto\n"
+msgid "Disable Merge Button"
 msgstr "禁用合并按钮"
 
 #. module: account
@@ -6345,8 +6341,8 @@ msgstr "显示代码"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__preview_ready
-msgid "Display preview butto\n"
-msgstr "Display preview butto\n"
+msgid "Display preview button"
+msgstr "Display preview button"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
@@ -6355,7 +6351,7 @@ msgstr "显示发票大写总额"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__repartition_line_ids
-msgid "Distributio\n"
+msgid "Distribution"
 msgstr "分配"
 
 #. module: account
@@ -6403,8 +6399,8 @@ msgstr "Do not have access, skip this data for user's digest email"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__module_account_extract
-msgid "Document Digitizatio\n"
-msgstr "Document Digitizatio\n"
+msgid "Document Digitization"
+msgstr "Document Digitization"
 
 #. module: account
 #: model:onboarding.onboarding.step,title:account.onboarding_onboarding_step_base_document_layout
@@ -6413,7 +6409,7 @@ msgstr "文件版面格式"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_analytic_applicability__business_domain
-msgid "Domai\n"
+msgid "Domain"
 msgstr "域"
 
 #. module: account
@@ -6429,7 +6425,7 @@ msgstr "Domestic country of your accounting"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_cash_rounding__rounding_method__down
 #: model:ir.model.fields.selection,name:account.selection__account_report__integer_rounding__down
-msgid "Dow\n"
+msgid "Down"
 msgstr "下"
 
 #. module: account
@@ -6667,7 +6663,7 @@ msgstr "提前付款折扣"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__account_journal_early_pay_discount_gain_account_id
-msgid "Early Discount Gai\n"
+msgid "Early Discount Gain"
 msgstr "提前付款折扣收益"
 
 #. module: account
@@ -6823,7 +6819,7 @@ msgstr "期末余额"
 #. module: account
 #. odoo-javascript
 #: code:addons/account/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-msgid "Enter a descriptio\n"
+msgid "Enter a description"
 msgstr "输入描述"
 
 #. module: account
@@ -6935,7 +6931,7 @@ msgstr "错误！"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_journal__invoice_reference_model__euro
-msgid "Europea\n"
+msgid "European"
 msgstr "欧洲"
 
 #. module: account
@@ -7281,12 +7277,12 @@ msgstr "会计所在国家/地区代码"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_partner_property_form
-msgid "Fiscal Informatio\n"
+msgid "Fiscal Information"
 msgstr "财务信息"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
-msgid "Fiscal Localizatio\n"
+msgid "Fiscal Localization"
 msgstr "会计本地化"
 
 #. module: account
@@ -7308,7 +7304,7 @@ msgstr "会计期间"
 #: model_terms:ir.ui.view,arch_db:account.view_account_position_filter
 #: model_terms:ir.ui.view,arch_db:account.view_account_position_form
 #: model_terms:ir.ui.view,arch_db:account.view_account_position_tree
-msgid "Fiscal Positio\n"
+msgid "Fiscal Position"
 msgstr "应税设定"
 
 #. module: account
@@ -7324,7 +7320,7 @@ msgstr "会计年度结束日期"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report_external_value__foreign_vat_fiscal_position_id
-msgid "Fiscal positio\n"
+msgid "Fiscal position"
 msgstr "应税设定"
 
 #. module: account
@@ -7486,7 +7482,7 @@ msgstr "外币"
 
 #. module: account
 #: model:account.account,name:account.1_income_currency_exchange
-msgid "Foreign Exchange Gai\n"
+msgid "Foreign Exchange Gain"
 msgstr "汇兑收益"
 
 #. module: account
@@ -7644,7 +7640,7 @@ msgstr "未来日期"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
-msgid "Gai\n"
+msgid "Gain"
 msgstr "收益"
 
 #. module: account
@@ -7790,7 +7786,7 @@ msgstr "分组索引"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report__filter_growth_comparison
-msgid "Growth Compariso\n"
+msgid "Growth Comparison"
 msgstr "增长对比"
 
 #. module: account
@@ -7887,26 +7883,23 @@ msgid ""
 "Hi,\n"
 "    <br/><br/>\n"
 "    Your email has been discarded. the e-mail address you have used only accepts new invoices:"
-msgstr ""
-"您好，\n"
-"    <br/><br/>\n"
-"    您的邮件已被丢弃。您使用的电子邮件地址只接受新发票："
+msgstr "\Hi,n" "    <br/><br/>n" "    Your email has been discarded. the e-mail address you have used only accepts new invoices:"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__hide_post_button
 #: model:ir.model.fields,field_description:account.field_account_move__hide_post_button
-msgid "Hide Post Butto\n"
+msgid "Hide Post Button"
 msgstr "隐藏过账按钮"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__hide_tax_exigibility
-msgid "Hide Use Cash Basis Optio\n"
+msgid "Hide Use Cash Basis Option"
 msgstr "隐藏使用现金收付选项"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_payment_register__hide_writeoff_section
-msgid "Hide Writeoff Sectio\n"
-msgstr "Hide Writeoff Sectio\n"
+msgid "Hide Writeoff Section"
+msgstr "Hide Writeoff Section"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report_line__hide_if_zero
@@ -8034,7 +8027,7 @@ msgstr "INV001"
 #: model:ir.model.fields,field_description:account.field_account_payment__activity_exception_icon
 #: model:ir.model.fields,field_description:account.field_account_setup_bank_manual_config__activity_exception_icon
 #: model:ir.model.fields,field_description:account.field_res_partner_bank__activity_exception_icon
-msgid "Ico\n"
+msgid "Icon"
 msgstr "图标"
 
 #. module: account
@@ -8154,9 +8147,7 @@ msgstr "If set, this account is used to automatically balance entries."
 msgid ""
 "If set, this account will belong to Non Trade Receivable/Payable in reports and filters.\n"
 "If not, this account will belong to Trade Receivable/Payable in reports and filters."
-msgstr ""
-"如果设置，此账户将属于报告和过滤器中的非贸易应收账款/应付账款。\\n"
-"如果未设置，此账户将属于报告和过滤器中的贸易应收账款/应付账款。"
+msgstr "\If set, this account will belong to Non Trade Receivable/Payable in reports and filters.n" "If not, this account will belong to Trade Receivable/Payable in reports and filters."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_tax_group__preceding_subtotal
@@ -8443,7 +8434,7 @@ msgstr "国际贸易术语"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__incoterm_location
 #: model:ir.model.fields,field_description:account.field_account_move__incoterm_location
-msgid "Incoterm Locatio\n"
+msgid "Incoterm Location"
 msgstr "国际贸易术语位置"
 
 #. module: account
@@ -8495,7 +8486,7 @@ msgstr "信息"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_line_form
-msgid "Informatio\n"
+msgid "Information"
 msgstr "信息"
 
 #. module: account
@@ -8670,8 +8661,8 @@ msgstr "无效的会计年度最后一天"
 
 #. module: account
 #: model:account.journal,name:account.1_inventory_valuation
-msgid "Inventory Valuatio\n"
-msgstr "Inventory Valuatio\n"
+msgid "Inventory Valuation"
+msgstr "Inventory Valuation"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_report__inventory_value
@@ -8747,7 +8738,7 @@ msgstr "发票日期"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__module_account_invoice_extract
-msgid "Invoice Digitizatio\n"
+msgid "Invoice Digitization"
 msgstr "发票数字化"
 
 #. module: account
@@ -8769,7 +8760,7 @@ msgstr "发票 EDI 格式商店"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__invoice_filter_type_domain
 #: model:ir.model.fields,field_description:account.field_account_move__invoice_filter_type_domain
-msgid "Invoice Filter Type Domai\n"
+msgid "Invoice Filter Type Domain"
 msgstr "发票筛选器类型域"
 
 #. module: account
@@ -8875,9 +8866,9 @@ msgstr "发票 and credit note distribution should match (same percentages, in t
 #. odoo-python
 #: code:addons/account/models/account_tax.py:0
 msgid ""
-"Invoice and credit note repartition should have at least one tax repartitio\n"
+"Invoice and credit note repartition should have at least one tax repartition"
 " line."
-msgstr "发票 and credit note repartition should have at least one tax repartitio\n" " line."
+msgstr "发票 and credit note repartition should have at least one tax repartition" " line."
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
@@ -9088,7 +9079,7 @@ msgstr "正在发送"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_reconcile_model__match_amount__between
-msgid "Is Betwee\n"
+msgid "Is Between"
 msgstr "介于"
 
 #. module: account
@@ -9129,7 +9120,7 @@ msgstr "是关注者"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_reconcile_model__match_amount__greater
-msgid "Is Greater Tha\n"
+msgid "Is Greater Than"
 msgstr "大于"
 
 #. module: account
@@ -9144,7 +9135,7 @@ msgstr "是导入的"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_reconcile_model__match_amount__lower
-msgid "Is Lower Tha\n"
+msgid "Is Lower Than"
 msgstr "低于"
 
 #. module: account
@@ -9243,7 +9234,7 @@ msgstr "之前是“%(previous)s”，现在是“%(current)s”。"
 #. module: account
 #. odoo-python
 #: code:addons/account/models/account_move_line.py:0
-msgid "Items With Missing Analytic Distributio\n"
+msgid "Items With Missing Analytic Distribution"
 msgstr "项目缺少分析性的分配"
 
 #. module: account
@@ -9515,7 +9506,7 @@ msgstr "Keep empty for no control"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_payment_register__payment_difference_handling__open
-msgid "Keep ope\n"
+msgid "Keep open"
 msgstr "保持打开"
 
 #. module: account
@@ -9700,7 +9691,7 @@ msgstr "最后更新人"
 #: model:ir.model.fields,field_description:account.field_account_tax_group__write_date
 #: model:ir.model.fields,field_description:account.field_account_tax_repartition_line__write_date
 #: model:ir.model.fields,field_description:account.field_validate_account_move__write_date
-msgid "Last Updated o\n"
+msgid "Last Updated on"
 msgstr "上次更新日期"
 
 #. module: account
@@ -10073,7 +10064,7 @@ msgstr "三月"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_report__price_margin
-msgid "Margi\n"
+msgid "Margin"
 msgstr "毛利"
 
 #. module: account
@@ -10654,7 +10645,7 @@ msgstr "无银行匹配"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_move_line_filter
-msgid "No Bank Transactio\n"
+msgid "No Bank Transaction"
 msgstr "无银行交易"
 
 #. module: account
@@ -10930,7 +10921,7 @@ msgstr "错误数量"
 #: model:ir.model.fields,help:account.field_account_tax__message_needaction_counter
 #: model:ir.model.fields,help:account.field_res_company__message_needaction_counter
 #: model:ir.model.fields,help:account.field_res_partner_bank__message_needaction_counter
-msgid "Number of messages requiring actio\n"
+msgid "Number of messages requiring action"
 msgstr "需要采取行动的消息数量"
 
 #. module: account
@@ -10978,7 +10969,7 @@ msgstr "Odoo"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_report_expression__engine__domain
-msgid "Odoo Domai\n"
+msgid "Odoo Domain"
 msgstr "Odoo域"
 
 #. module: account
@@ -10987,8 +10978,7 @@ msgstr "Odoo域"
 msgid ""
 "Odoo allows you to reconcile a statement line directly with\n"
 "                the related sale or purchase invoices."
-msgstr ""
-"Odoo 允许 you to reconcile a statement line directly with\n" "                the related sale or purchase invoices."
+msgstr "\Odoo allows you to reconcile a statement line directly withn" "                the related sale or purchase invoices."
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.res_partner_action_customer
@@ -11146,7 +11136,7 @@ msgstr "哎呀"
 #: code:addons/account/models/account_move.py:0
 #: model:ir.model.fields.selection,name:account.selection__account_invoice_report__state__posted
 #: model:ir.model.fields.selection,name:account.selection__account_journal__invoice_reference_type__none
-msgid "Ope\n"
+msgid "Open"
 msgstr "打开"
 
 #. module: account
@@ -11241,7 +11231,7 @@ msgstr "订购"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__invoice_origin
 #: model:ir.model.fields,field_description:account.field_account_move__invoice_origin
-msgid "Origi\n"
+msgid "Origin"
 msgstr "原始"
 
 #. module: account
@@ -11506,7 +11496,7 @@ msgstr "已付发票"
 #. odoo-javascript
 #: code:addons/account/static/src/components/account_payment_field/account_payment.xml:0
 #: model_terms:ir.ui.view,arch_db:account.report_invoice_document
-msgid "Paid o\n"
+msgid "Paid on"
 msgstr "已付于"
 
 #. module: account
@@ -12063,7 +12053,7 @@ msgstr "期间"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report__filter_period_comparison
-msgid "Period Compariso\n"
+msgid "Period Comparison"
 msgstr "期间对比"
 
 #. module: account
@@ -12152,7 +12142,7 @@ msgstr "过账所有分录"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_payment_register_form
-msgid "Post Difference I\n"
+msgid "Post Difference In"
 msgstr "差额过账在"
 
 #. module: account
@@ -12344,7 +12334,7 @@ msgstr "打印支票，以向供应商付款"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement__problem_description
-msgid "Problem Descriptio\n"
+msgid "Problem Description"
 msgstr "问题描述"
 
 #. module: account
@@ -12573,7 +12563,7 @@ msgstr "重新排序"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_lock_exception__reason
-msgid "Reaso\n"
+msgid "Reason"
 msgstr "原因"
 
 #. module: account
@@ -12646,8 +12636,8 @@ msgstr "认可日期"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "Recompute all taxes and accounts based on this fiscal positio\n"
-msgstr "Recompute all taxes and accounts based on this fiscal positio\n"
+msgid "Recompute all taxes and accounts based on this fiscal position"
+msgstr "Recompute all taxes and accounts based on this fiscal position"
 
 #. module: account
 #. odoo-python
@@ -13064,7 +13054,7 @@ msgstr "已撤销"
 #. odoo-javascript
 #: code:addons/account/static/src/components/account_payment_field/account_payment.xml:0
 #: model_terms:ir.ui.view,arch_db:account.report_invoice_document
-msgid "Reversed o\n"
+msgid "Reversed on"
 msgstr "撤销于"
 
 #. module: account
@@ -13141,7 +13131,7 @@ msgstr "舍入方法"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_cash_rounding__rounding
-msgid "Rounding Precisio\n"
+msgid "Rounding Precision"
 msgstr "舍入精度"
 
 #. module: account
@@ -13289,7 +13279,7 @@ msgstr "销售税"
 #: model_terms:ir.ui.view,arch_db:account.view_account_invoice_filter
 #: model_terms:ir.ui.view,arch_db:account.view_account_invoice_report_search
 #: model_terms:ir.ui.view,arch_db:account.view_invoice_tree
-msgid "Salesperso\n"
+msgid "Salesperson"
 msgstr "销售员"
 
 #. module: account
@@ -13345,7 +13335,7 @@ msgstr "从您的银行应用程序扫描."
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.report_invoice_document
 #: model_terms:ir.ui.view,arch_db:account.report_invoice_document_preview
-msgid "Scan this QR Code with<br/>your banking applicatio\n"
+msgid "Scan this QR Code with<br/>your banking application"
 msgstr "使用您的银行应用程序扫描此二维码<br/>"
 
 #. module: account
@@ -13434,7 +13424,7 @@ msgstr "Search in the Statement's Reference to find the 发票/Payment's referen
 #: model:ir.model.fields.selection,name:account.selection__account_merge_wizard_line__display_type__line_section
 #: model:ir.model.fields.selection,name:account.selection__account_move_line__display_type__line_section
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "Sectio\n"
+msgid "Section"
 msgstr "小节"
 
 #. module: account
@@ -13491,7 +13481,7 @@ msgstr "Securing these entries will create at least one gap in the sequence."
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__access_token
 #: model:ir.model.fields,field_description:account.field_account_journal__access_token
 #: model:ir.model.fields,field_description:account.field_account_move__access_token
-msgid "Security Toke\n"
+msgid "Security Token"
 msgstr "安全令牌"
 
 #. module: account
@@ -13629,8 +13619,7 @@ msgid ""
 "Any file extension will be accepted.\n"
 "\n"
 "Only PDF and XML files will be interpreted by Odoo"
-msgstr ""
-"Send one separate email for each invoice.\n" "\n" "Any file extension will be accepted.\n" "\n" "Only PDF and XML files will be interpreted by Odoo"
+msgstr "\Send one separate email for each invoice.n" "n" "Any file extension will be accepted.n" "n" "Only PDF and XML files will be interpreted by Odoo"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.account_send_payment_receipt_by_email_action
@@ -13705,10 +13694,10 @@ msgstr "已发送发票"
 #: model:mail.template,description:account.mail_template_data_payment_receipt
 msgid ""
 "Sent manually to customer when clicking on 'Send receipt by email' in "
-"payment actio\n"
+"payment action"
 msgstr ""
 "Sent manually to customer when clicking on 'Send receipt by email' in "
-"payment actio\n"
+"payment action"
 
 #. module: account
 #: model:mail.template,description:account.email_template_edi_credit_note
@@ -13860,10 +13849,10 @@ msgstr "Set your company's data for documents header/footer."
 #. module: account
 #: model:ir.model.fields,help:account.field_account_report_line__action_id
 msgid ""
-"Setting this field will turn the line into a link, executing the action whe\n"
+"Setting this field will turn the line into a link, executing the action when"
 " clicked."
 msgstr ""
-"Setting this field will turn the line into a link, executing the action whe\n"
+"Setting this field will turn the line into a link, executing the action when"
 " clicked."
 
 #. module: account
@@ -13967,7 +13956,7 @@ msgstr "显示付款条款详情"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__show_reset_to_draft_button
 #: model:ir.model.fields,field_description:account.field_account_move__show_reset_to_draft_button
-msgid "Show Reset To Draft Butto\n"
+msgid "Show Reset To Draft Button"
 msgstr "显示“重置为草稿”按钮"
 
 #. module: account
@@ -14045,8 +14034,7 @@ msgstr ""
 msgid ""
 "Some payment methods supposed to be unique already exists somewhere else.\n"
 "(%s)"
-msgstr ""
-"Some payment methods supposed to be unique already exists somewhere else.\n" "(%s)"
+msgstr "\Some payment methods supposed to be unique already exists somewhere else.n" "(%s)"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_setup_bank_manual_config__bank_bic
@@ -14098,15 +14086,15 @@ msgstr ""
 #: model:ir.model.fields,help:account.field_account_cash_rounding__strategy
 msgid ""
 "Specify which way will be used to round the invoice amount to the rounding "
-"precisio\n"
+"precision"
 msgstr ""
 "Specify which way will be used to round the invoice amount to the rounding "
-"precisio\n"
+"precision"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "Standard communicatio\n"
-msgstr "Standard communicatio\n"
+msgid "Standard communication"
+msgstr "Standard communication"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement__balance_start
@@ -14214,8 +14202,7 @@ msgid ""
 "Overdue: Due date is already passed\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
-msgstr ""
-"Status based on activities\n" "Overdue: Due date is already passed\n" "Today: Activity date is today\n" "Planned: Future activities."
+msgstr "\Status based on activitiesn" "Overdue: Due date is already passedn" "Today: Activity date is todayn" "Planned: Future activities."
 
 #. module: account
 #. odoo-javascript
@@ -14245,7 +14232,7 @@ msgstr "库存中间科目（收货）"
 
 #. module: account
 #: model:account.account,name:account.1_stock_valuation
-msgid "Stock Valuatio\n"
+msgid "Stock Valuation"
 msgstr "库存估值"
 
 #. module: account
@@ -14361,7 +14348,7 @@ msgstr ""
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report_external_value__target_report_expression_id
-msgid "Target Expressio\n"
+msgid "Target Expression"
 msgstr "目标表达式"
 
 #. module: account
@@ -14427,7 +14414,7 @@ msgstr "完税分录"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__amount_type
-msgid "Tax Computatio\n"
+msgid "Tax Computation"
 msgstr "税费计算"
 
 #. module: account
@@ -14516,8 +14503,8 @@ msgstr "税项映射"
 
 #. module: account
 #: model:ir.model,name:account.model_account_fiscal_position_tax
-msgid "Tax Mapping of Fiscal Positio\n"
-msgstr "税 Mapping of Fiscal Positio\n"
+msgid "Tax Mapping of Fiscal Position"
+msgstr "税 Mapping of Fiscal Position"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__name
@@ -14766,8 +14753,7 @@ msgid ""
 "This is a regex that can include all the following capture groups: prefix1, year, prefix2, month, prefix3, seq, suffix.\n"
 "The prefix* groups are the separators between the year, month and the actual increasing sequence number (seq).\n"
 "e.g: ^(?P<prefix1>.*?)(?P<year>\\d{4})(?P<prefix2>\\D*?)(?P<month>\\d{2})(?P<prefix3>\\D+?)(?P<seq>\\d+)(?P<suffix>\\D*?)$"
-msgstr ""
-"Technical field used to enforce complex sequence composition that the system would normally misunderstand.\n" "This is a regex that can include all the following capture groups: prefix1, year, prefix2, month, prefix3, seq, suffix.\n" "The prefix* groups are the separators between the year, month and the actual increasing sequence number (seq).\n" "e.g: ^(?P<prefix1>.*?)(?P<year>\\d{4})(?P<prefix2>\\D*?)(?P<month>\\d{2})(?P<prefix3>\\D+?)(?P<seq>\\d+)(?P<suffix>\\D*?)$"
+msgstr "\Technical field used to enforce complex sequence composition that the system would normally misunderstand.n" "This is a regex that can include all the following capture groups: prefix1, year, prefix2, month, prefix3, seq, suffix.n" "The prefix* groups are the separators between the year, month and the actual increasing sequence number (seq).n" "e.g: ^(?P<prefix1>.*?)(?P<year>\\d{4})(?P<prefix2>\\D*?)(?P<month>\\d{2})(?P<prefix3>\\D+?)(?P<seq>\\d+)(?P<suffix>\\D*?)$"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_fiscal_position__foreign_vat_header_mode__templates_found
@@ -14907,8 +14893,7 @@ msgstr "The Hard Lock 日期 cannot be removed."
 msgid ""
 "The ISO country code in two chars. \n"
 "You can use this field for quick search."
-msgstr ""
-"The ISO country code in two chars.\n" "You can use this field for quick search."
+msgstr "\The ISO country code in two chars.n" "You can use this field for quick search."
 
 #. module: account
 #. odoo-python
@@ -15050,8 +15035,8 @@ msgstr ""
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_move_line__statement_id
-msgid "The bank statement used for bank reconciliatio\n"
-msgstr "The bank statement used for bank reconciliatio\n"
+msgid "The bank statement used for bank reconciliation"
+msgstr "The bank statement used for bank reconciliation"
 
 #. module: account
 #. odoo-python
@@ -15143,10 +15128,10 @@ msgstr "The country for which this tax is applicable."
 #. odoo-python
 #: code:addons/account/models/account_report.py:0
 msgid ""
-"The country set on the foreign VAT fiscal position must match the one set o\n"
+"The country set on the foreign VAT fiscal position must match the one set on"
 " the report."
 msgstr ""
-"The country set on the foreign VAT fiscal position must match the one set o\n"
+"The country set on the foreign VAT fiscal position must match the one set on"
 " the report."
 
 #. module: account
@@ -15371,8 +15356,7 @@ msgstr "The foreign fiscal position for which this external value is made."
 msgid ""
 "The hash chain is compliant: it is not possible to alter the\n"
 "                                            data without breaking the hash chain for subsequent parts."
-msgstr ""
-"The hash chain is compliant: it is not possible to alter the\n" "                                            data without breaking the hash chain for subsequent parts."
+msgstr "\The hash chain is compliant: it is not possible to alter then" "                                            data without breaking the hash chain for subsequent parts."
 
 #. module: account
 #. odoo-python
@@ -15406,8 +15390,7 @@ msgstr "The invoice is not a draft, it was not updated from the attachment."
 msgid ""
 "The journal entry %s reached an invalid state regarding its related statement line.\n"
 "To be consistent, the journal entry must always have exactly one journal item involving the bank/cash account."
-msgstr ""
-"The journal entry %s reached an invalid state regarding its related statement line.\n" "To be consistent, the journal entry must always have exactly one journal item involving the bank/cash account."
+msgstr "\The journal entry %s reached an invalid state regarding its related statement line.n" "To be consistent, the journal entry must always have exactly one journal item involving the bank/cash account."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_res_company__account_opening_move_id
@@ -15461,8 +15444,7 @@ msgid ""
 "- To Match the text at the beginning of the line (in label or notes), simply fill in your text.\n"
 "- To Match the text anywhere (in label or notes), put your text between .*\n"
 "  e.g: .*N°48748 abc123.*"
-msgstr ""
-"The mapping uses regular expressions.\n" "- To Match the text at the beginning of the line (in label or notes), simply fill in your text.\n" "- To Match the text anywhere (in label or notes), put your text between .*\n" "  e.g: .*N°48748 abc123.*"
+msgstr "\The mapping uses regular expressions.n" "- To Match the text at the beginning of the line (in label or notes), simply fill in your text.n" "- To Match the text anywhere (in label or notes), put your text between .*n" "  e.g: .*N°48748 abc123.*"
 
 #. module: account
 #. odoo-python
@@ -15560,8 +15542,7 @@ msgstr "The payment's currency."
 msgid ""
 "The recipient bank account linked to this invoice is archived.\n"
 "So you cannot confirm the invoice."
-msgstr ""
-"The recipient bank account linked to this invoice is archived.\n" "So you cannot confirm the invoice."
+msgstr "\The recipient bank account linked to this invoice is archived.n" "So you cannot confirm the invoice."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_reconcile_model__match_partner_category_ids
@@ -15613,8 +15594,7 @@ msgid ""
 "        * Contains: The proposition label must contains this string (case insensitive).\n"
 "        * Not Contains: Negation of \"Contains\".\n"
 "        * Match Regex: Define your own regular expression."
-msgstr ""
-"The reconciliation model will only be applied when the label:\n" "        * Contains: The proposition label must contains this string (case insensitive).\n" "        * Not Contains: Negation of \"Contains\".\n" "        * Match Regex: Define your own regular expression."
+msgstr "\The reconciliation model will only be applied when the label:n" "        * Contains: The proposition label must contains this string (case insensitive).n" "        * Not Contains: Negation of \"Contains\".n" "        * Match Regex: Define your own regular expression."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_reconcile_model__match_note
@@ -15623,8 +15603,7 @@ msgid ""
 "        * Contains: The proposition note must contains this string (case insensitive).\n"
 "        * Not Contains: Negation of \"Contains\".\n"
 "        * Match Regex: Define your own regular expression."
-msgstr ""
-"The reconciliation model will only be applied when the note:\n" "        * Contains: The proposition note must contains this string (case insensitive).\n" "        * Not Contains: Negation of \"Contains\".\n" "        * Match Regex: Define your own regular expression."
+msgstr "\The reconciliation model will only be applied when the note:n" "        * Contains: The proposition note must contains this string (case insensitive).n" "        * Not Contains: Negation of \"Contains\".n" "        * Match Regex: Define your own regular expression."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_reconcile_model__match_transaction_type
@@ -15633,8 +15612,7 @@ msgid ""
 "        * Contains: The proposition transaction type must contains this string (case insensitive).\n"
 "        * Not Contains: Negation of \"Contains\".\n"
 "        * Match Regex: Define your own regular expression."
-msgstr ""
-"The reconciliation model will only be applied when the transaction type:\n" "        * Contains: The proposition transaction type must contains this string (case insensitive).\n" "        * Not Contains: Negation of \"Contains\".\n" "        * Match Regex: Define your own regular expression."
+msgstr "\The reconciliation model will only be applied when the transaction type:n" "        * Contains: The proposition transaction type must contains this string (case insensitive).n" "        * Not Contains: Negation of \"Contains\".n" "        * Match Regex: Define your own regular expression."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_reconcile_model__match_journal_ids
@@ -15645,7 +15623,7 @@ msgstr ""
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "The recurrence will end o\n"
+msgid "The recurrence will end on"
 msgstr "重复将结束于"
 
 #. module: account
@@ -16012,8 +15990,7 @@ msgstr "There was an error processing this page."
 msgid ""
 "There was an error when trying to add the banner to the original PDF.\n"
 "Please make sure the source file is valid."
-msgstr ""
-"There was an error when trying to add the banner to the original PDF.\n" "Please make sure the source file is valid."
+msgstr "\There was an error when trying to add the banner to the original PDF.n" "Please make sure the source file is valid."
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.report_invoice_document
@@ -16109,8 +16086,7 @@ msgstr ""
 msgid ""
 "This allows you grouping payments into a single batch and eases the reconciliation process.\n"
 "-This installs the account_batch_payment module."
-msgstr ""
-"This allows you grouping payments into a single batch and eases the reconciliation process.\n" "-This installs the account_batch_payment module."
+msgstr "\This allows you grouping payments into a single batch and eases the reconciliation process.n" "-This installs the account_batch_payment module."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_analytic_distribution_model__account_prefix
@@ -16390,8 +16366,7 @@ msgstr ""
 msgid ""
 "Those can be used to quickly create a journal items when reconciling\n"
 "                a bank statement or an account."
-msgstr ""
-"Those can be used to quickly create a journal items when reconciling\n" "                a bank statement or an account."
+msgstr "\Those can be used to quickly create a journal items when reconcilingn" "                a bank statement or an account."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_merge_wizard__is_group_by_name
@@ -16462,8 +16437,7 @@ msgstr "检查"
 msgid ""
 "To keep the audit trail, you can not delete journal entries once they have been posted.\n"
 "Instead, you can cancel the journal entry."
-msgstr ""
-"To keep the audit trail, you can not delete journal entries once they have been posted.\n" "Instead, you can cancel the journal entry."
+msgstr "\To keep the audit trail, you can not delete journal entries once they have been posted.n" "Instead, you can cancel the journal entry."
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_invoice_filter
@@ -17147,8 +17121,7 @@ msgstr ""
 msgid ""
 "Use this field to encode the total amount of the invoice.\n"
 "Odoo will automatically create one invoice line with default values to match it."
-msgstr ""
-"Use this field to encode the total amount of the invoice.\n" "Odoo will automatically create one invoice line with default values to match it."
+msgstr "\Use this field to encode the total amount of the invoice.n" "Odoo will automatically create one invoice line with default values to match it."
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account__used
@@ -17310,8 +17283,7 @@ msgid ""
 "R:9672938 10/07 AX 9415126318 T:5L:NA BRT: 3358,07 C:\n"
 "You could enter\n"
 "BRT: ([\\d,]+)"
-msgstr ""
-"Value for the amount of the writeoff line\n" "    * Percentage: Percentage of the balance, between 0 and 100.\n" "    * Fixed: The fixed value of the writeoff. The amount will count as a debit if it is negative, as a credit if it is positive.\n" "    * From Label: There is no need for regex delimiter, only the regex is needed. For instance if you want to extract the amount from\n" "R:9672938 10/07 AX 9415126318 T:5L:NA BRT: 3358,07 C:\n" "You could enter\n" "BRT: ([\\d,]+)"
+msgstr "\Value for the amount of the writeoff linen" "    * Percentage: Percentage of the balance, between 0 and 100.n" "    * Fixed: The fixed value of the writeoff. The amount will count as a debit if it is negative, as a credit if it is positive.n" "    * From Label: There is no need for regex delimiter, only the regex is needed. For instance if you want to extract the amount fromn" "R:9672938 10/07 AX 9415126318 T:5L:NA BRT: 3358,07 C:n" "You could entern" "BRT: ([\\d,]+)"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_report__variant_report_ids
@@ -17585,16 +17557,14 @@ msgstr ""
 msgid ""
 "When the purchase receipt is confirmed, you can record the\n"
 "                vendor payment related to this purchase receipt."
-msgstr ""
-"When the purchase receipt is confirmed, you can record the\n" "                vendor payment related to this purchase receipt."
+msgstr "\When the purchase receipt is confirmed, you can record then" "                vendor payment related to this purchase receipt."
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.action_move_out_receipt_type
 msgid ""
 "When the sale receipt is confirmed, you can record the customer\n"
 "                payment related to this sales receipt."
-msgstr ""
-"When the sale receipt is confirmed, you can record the customer\n" "                payment related to this sales receipt."
+msgstr "\When the sale receipt is confirmed, you can record the customern" "                payment related to this sales receipt."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal__show_on_dashboard
@@ -17902,10 +17872,10 @@ msgstr "You can't provide a foreign currency without specifying an amount in '�
 #. odoo-python
 #: code:addons/account/models/account_bank_statement_line.py:0
 msgid ""
-"You can't provide an amount in foreign currency without specifying a foreig\n"
+"You can't provide an amount in foreign currency without specifying a foreign"
 " currency."
 msgstr ""
-"You can't provide an amount in foreign currency without specifying a foreig\n"
+"You can't provide an amount in foreign currency without specifying a foreign"
 " currency."
 
 #. module: account
@@ -18109,8 +18079,7 @@ msgid ""
 "You cannot edit the following fields: %(fields)s.\n"
 "The following entries are already hashed:\n"
 "%(entries)s"
-msgstr ""
-"You cannot edit the following fields: %(fields)s.\n" "The following entries are already hashed:\n" "%(entries)s"
+msgstr "\You cannot edit the following fields: %(fields)s.n" "The following entries are already hashed:n" "%(entries)s"
 
 #. module: account
 #. odoo-python
@@ -18733,7 +18702,7 @@ msgstr "此处"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
-msgid "i\n"
+msgid "in"
 msgstr "在"
 
 #. module: account
@@ -18778,9 +18747,7 @@ msgstr "是一项重要操作。是否已核对所有内容？"
 msgid ""
 "is a money transfer service and not a bank.\n"
 "                            Double check if the account can be trusted by calling the vendor.<br/>"
-msgstr ""
-"是一个转账服务而不是银行。\\n"
-"                            请通过致电供应商来仔细检查账户是否可信。<br/>"
+msgstr "\is a money transfer service and not a bank.n" "                            Double check if the account can be trusted by calling the vendor.<br/>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_partner_bank_form_inherit_account
@@ -18825,7 +18792,7 @@ msgstr "税项"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_payment_term_form
-msgid "o\n"
+msgid "on"
 msgstr "在"
 
 #. module: account
@@ -18886,7 +18853,7 @@ msgstr ""
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax_repartition_line__tag_ids_domain
-msgid "tag domai\n"
+msgid "tag domain"
 msgstr "标记域"
 
 #. module: account
