@@ -328,7 +328,11 @@ msgid ""
 "    <br/>\n"
 "    --\n"
 "    <br/>"
-msgstr "\.n" "    <br/>n" "    --n" "    <br/>"
+msgstr ""
+"\n"
+"    <br/>\n"
+"    --\n"
+"    <br/>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
@@ -7883,7 +7887,10 @@ msgid ""
 "Hi,\n"
 "    <br/><br/>\n"
 "    Your email has been discarded. the e-mail address you have used only accepts new invoices:"
-msgstr "\Hi,n" "    <br/><br/>n" "    Your email has been discarded. the e-mail address you have used only accepts new invoices:"
+msgstr ""
+"您好，\n"
+"    <br/><br/>\n"
+"    您的邮件已被丢弃。您使用的电子邮件地址只接受新发票："
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__hide_post_button
